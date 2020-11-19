@@ -1,7 +1,0 @@
-D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_HomeWork2\HomeWork2\Task1.MinimumNumber\bin\Debug\Task1.MinimumNumber.exe.config
-D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_HomeWork2\HomeWork2\Task1.MinimumNumber\bin\Debug\Task1.MinimumNumber.exe
-D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_HomeWork2\HomeWork2\Task1.MinimumNumber\bin\Debug\Task1.MinimumNumber.pdb
-D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_HomeWork2\HomeWork2\Task1.MinimumNumber\obj\Debug\Task1.MinimumNumber.csprojAssemblyReference.cache
-D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_HomeWork2\HomeWork2\Task1.MinimumNumber\obj\Debug\Task1.MinimumNumber.csproj.CoreCompileInputs.cache
-D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_HomeWork2\HomeWork2\Task1.MinimumNumber\obj\Debug\Task1.MinimumNumber.exe
-D:\Learning\GeekBrains_C#\Basic_CSharp\Basic_CSharp_HomeWork2\HomeWork2\Task1.MinimumNumber\obj\Debug\Task1.MinimumNumber.pdb
