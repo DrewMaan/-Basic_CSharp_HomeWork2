@@ -8,6 +8,15 @@ namespace Task6.CountGoodNumbers
 {
 	class Program
 	{
+		/*
+		 
+		 * *Написать программу подсчета количества «Хороших» чисел в диапазоне от 1 до 1 000 000 000. 
+		 * Хорошим называется число, которое делится на сумму своих цифр. 
+		 * Реализовать подсчет времени выполнения программы, используя структуру DateTime.
+		 * 
+		 * Выполнил: Касимовский Андрей
+		 
+		*/
 		static void Main(string[] args)
 		{
 			int startTime = DateTime.Now.Hour * 3600 + DateTime.Now.Minute * 60 + DateTime.Now.Second;
