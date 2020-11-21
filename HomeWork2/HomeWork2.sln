@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.SumOfOddPositiveNumbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.CheckLoginAndPassword", "Task4.CheckLoginAndPassword\Task4.CheckLoginAndPassword.csproj", "{63F9345D-FA98-445F-A98A-40A4DE3690F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5.BodyMassIndex", "Task5.BodyMassIndex\Task5.BodyMassIndex.csproj", "{42216278-23BE-497F-A016-2114E980BBBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{63F9345D-FA98-445F-A98A-40A4DE3690F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63F9345D-FA98-445F-A98A-40A4DE3690F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63F9345D-FA98-445F-A98A-40A4DE3690F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42216278-23BE-497F-A016-2114E980BBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42216278-23BE-497F-A016-2114E980BBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42216278-23BE-497F-A016-2114E980BBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42216278-23BE-497F-A016-2114E980BBBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
