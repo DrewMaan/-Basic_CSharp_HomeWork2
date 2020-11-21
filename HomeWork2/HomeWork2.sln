@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5.BodyMassIndex", "Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.CountGoodNumbers", "Task6.CountGoodNumbers\Task6.CountGoodNumbers.csproj", "{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7.Recursion", "Task7.Recursion\Task7.Recursion.csproj", "{DDD40A95-B991-4630-AD32-84327F418638}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD40A95-B991-4630-AD32-84327F418638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD40A95-B991-4630-AD32-84327F418638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD40A95-B991-4630-AD32-84327F418638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD40A95-B991-4630-AD32-84327F418638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
