@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.CheckLoginAndPassword
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5.BodyMassIndex", "Task5.BodyMassIndex\Task5.BodyMassIndex.csproj", "{42216278-23BE-497F-A016-2114E980BBBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.CountGoodNumbers", "Task6.CountGoodNumbers\Task6.CountGoodNumbers.csproj", "{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{42216278-23BE-497F-A016-2114E980BBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42216278-23BE-497F-A016-2114E980BBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42216278-23BE-497F-A016-2114E980BBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1364A0F-DD1B-4CFE-A781-7EF752AC7DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
